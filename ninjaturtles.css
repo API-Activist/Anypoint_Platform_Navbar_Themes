@@ -1,0 +1,52 @@
+span span svg use {
+  display: none;
+}
+
+
+span.anypoint-icon.NavBar--page-logo-icon__2V91-6 {
+  background:url('https://cdn2.iconfinder.com/data/icons/ninja-turtles-filledoutline/64/donatello-avatar-people-super_hero-ninja-ninja_turtles-warrior-cultures-japanese-oriental-512.png') no-repeat center;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+nav.Bar--nav__3lhQmH {
+  background-color: darkgreen;
+  
+}
+
+span.anypoint-icon.Sidebar--icon__UmxaSu {
+   background:url('https://cdn2.iconfinder.com/data/icons/ninja-turtles-filledoutline/64/donatello-avatar-people-super_hero-ninja-ninja_turtles-warrior-cultures-japanese-oriental-512.png') no-repeat left;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+span svg use {
+  display: none;
+}
+
+span.anypoint-icon.Support--icon__3Njclb svg{
+     background:url('https://cdn-icons-png.flaticon.com/512/1404/1404945.png') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+  max-height: 30px; 
+  max-width: 30px;
+}
+
+img.components--logo-img__3108zO {
+  display: none;
+}
+
+
+
+a.components--logo-link__1ZdlpD {
+
+ background:url('https://icon-library.com/images/ninja-turtles-icon/ninja-turtles-icon-28.jpg') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 100px 100px;
+  max-height: 100px; 
+  max-width: 100px;
+}
