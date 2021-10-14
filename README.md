@@ -22,6 +22,7 @@ Navigate to https://anypoint.mulesoft.com/login
 
 
 Open Stylebot within your Chrome
+
 ![image](https://user-images.githubusercontent.com/86777111/137298828-4fcd39f3-f148-422d-8086-229039d1215a.png)
 
 
