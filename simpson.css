@@ -1,0 +1,52 @@
+span span svg use {
+  display: none;
+}
+
+
+span.anypoint-icon.NavBar--page-logo-icon__2V91-6 {
+  background:url('https://iconarchive.com/download/i81985/jonathan-rey/simpsons/The-Simpsons-04.ico') no-repeat center;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+nav.Bar--nav__3lhQmH {
+  background-color: yellowgreen;
+  
+}
+
+span.anypoint-icon.Sidebar--icon__UmxaSu {
+   background:url('https://iconarchive.com/download/i81985/jonathan-rey/simpsons/The-Simpsons-04.ico') no-repeat left;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+span svg use {
+  display: none;
+}
+
+span.anypoint-icon.Support--icon__3Njclb svg{
+     background:url('https://freepngimg.com/download/artwork/84879-homer-maggie-art-bart-smiley-simpson.png') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+  max-height: 30px; 
+  max-width: 30px;
+}
+
+img.components--logo-img__3108zO {
+  display: none;
+}
+
+
+
+a.components--logo-link__1ZdlpD {
+
+ background:url('https://iconarchive.com/download/i81985/jonathan-rey/simpsons/The-Simpsons-04.ico') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 100px 100px;
+  max-height: 100px; 
+  max-width: 100px;
+}
