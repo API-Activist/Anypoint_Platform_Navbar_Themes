@@ -1,0 +1,74 @@
+span span svg use {
+  display: none;
+}
+
+
+span.anypoint-icon.NavBar--page-logo-icon__2V91-6 {
+  background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1024px-Star_Wars_Logo.svg.png') no-repeat center;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+nav.Bar--nav__3lhQmH {
+  background-color: black;
+  
+}
+
+span.anypoint-icon.Sidebar--icon__UmxaSu {
+   background:url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Star_Wars_Logo.svg/1024px-Star_Wars_Logo.svg.png') no-repeat left;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+}
+
+span svg use {
+  display: none;
+}
+
+span.anypoint-icon.Support--icon__3Njclb svg{
+     background:url('https://icons-for-free.com/iconfiles/png/512/jedi+master+starwars+yoda+icon-1320166700243190687.png') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 30px 30px;
+  max-height: 30px; 
+  max-width: 30px;
+}
+
+img.components--logo-img__3108zO {
+  display: none;
+}
+
+
+
+a.components--logo-link__1ZdlpD {
+
+ background:url('https://icons-for-free.com/iconfiles/png/512/jedi+master+starwars+yoda+icon-1320166700243190687.png') no-repeat center ;
+    width: 100%;
+    height: 100%;
+  background-size: 100px 100px;
+  max-height: 100px; 
+  max-width: 100px;
+}
+
+button.button.Button__button___3tyo3.DefaultTheme__button___29mtS.DefaultTheme__primary___249es {
+  background-color: #38761d;
+  border-color: #38761d;
+  
+}
+
+a.create-asset-23bTf.DefaultTheme__button__29mtS.DefaultTheme__primary__249es.DefaultTheme__md__1s5qL {
+  background-color: #38761d;
+  border-color: #274e13;
+}
+
+button.button.new-search-Ee_ac.DefaultTheme__button__29mtS.DefaultTheme__secondary__1JUnQ.DefaultTheme__no-fill__1Pw4q.DefaultTheme__md__1s5qL {
+  background-color: #274e13;
+  border-color: #274e13;
+  color: #ffffff;
+}
+
+button.button {
+  background-color: #274e13;
+  border-color: #274e13;
+}
