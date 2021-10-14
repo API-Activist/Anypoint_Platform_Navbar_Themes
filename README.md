@@ -1,2 +1,2 @@
-# Anypoint_Platform_Themes
-This repository contains themes for Anypoint Platform
+# Anypoint_Platform_Navbar_Themes
+This repository contains navigationbar themes for Anypoint Platform
