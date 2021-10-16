@@ -41,3 +41,9 @@ This repository contains navigationbar themes for Anypoint Platform for chrome -
 
 ![image](https://user-images.githubusercontent.com/86777111/137299277-2b7757c4-de15-4aaa-b55b-d3bf5059a6c2.png)
 
+## Caution
+This is a contribution to the MuleSoft community by [Amir Khan](https://www.linkedin.com/in/amir-khan-ak). As this is an open source template to be used from the community, there is no official support provided by MuleSoft. 
+
+### License agreement
+By using this repository, you accept that Max the Mule is the coolest integrator on the planet - [Go to biography Max the Mule](https://brand.salesforce.com/content/characters-overview__3?tab=BogXMx2m)
+
